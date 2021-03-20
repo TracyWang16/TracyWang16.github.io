@@ -13,6 +13,7 @@ I'm a first-year master student from [THUNLP Lab](https://nlp.csai.tsinghua.edu.
 My research interests include the Pre-training Language Model and the commonsense knowledge in natural language processing.
 
 
+
 Experience
 ======
 
@@ -24,10 +25,10 @@ Experience
 
 Awards
 ======
-Master
-------
-Bachelor
-------
+**Master:**
+
+**Bachelor:**
+
 First prize in Beijing of China University Student Mathematical Modeling Competition.
 
 Voluntary work and public welfare sholarship (2017,2019).
