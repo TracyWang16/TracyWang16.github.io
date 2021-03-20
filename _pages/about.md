@@ -21,12 +21,11 @@ Experience
 **Highschool:** [The Affiliated High School of Shanxi University](http://www.sxdxfz.cn/)  (2012-2016)
 
 
+
 Awards
 ======
-
 Master
 ------
-
 Bachelor
 ------
 First prize in Beijing of China University Student Mathematical Modeling Competition.
