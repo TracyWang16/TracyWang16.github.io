@@ -24,9 +24,10 @@ Master
 
 Bachelor
 ------
-First prize in Beijing of China University Student Mathematical Modeling Competition;
-·	Voluntary work and public welfare sholarship (2017,2019)
+First prize in Beijing of China University Student Mathematical Modeling Competition
+Voluntary work and public welfare sholarship (2017,2019)
 Good reading scholarship (2019)
 Social work scholarship (2019)
 
-
+Good reading scholarship in 2018-2019 year.
+Zhuzhou Scholarship in 2017-2018 year
