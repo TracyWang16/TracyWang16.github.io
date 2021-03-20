@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "王凤玉 Fengyu Wang"
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   bio              : "Master student @ Tsinghua University"
-  location         : "Location"
+  location         : "Beijing"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
