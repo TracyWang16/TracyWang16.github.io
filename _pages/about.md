@@ -21,7 +21,7 @@ Experience
 
 **double degree：**  [Business Administration(For Second Bachelor Degree)](http://www.sem.tsinghua.edu.cn/), Tsinghua University (2017-2020)
 
-**Highschool：** [The Affiliated High School of Shanxi University](http://www.sxdxfz.cn/)  (2012-2016)
+**Highschool：** [The Affiliated High School of Shanxi University](http://www.sxdxfz.cn/)  (2013-2016)
 
 
 
