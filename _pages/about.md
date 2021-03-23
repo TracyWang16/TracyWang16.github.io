@@ -17,9 +17,11 @@ My research interests include the Pre-training Language Model and the commonsens
 Experience
 ======
 
-**Undergraduate:**  [Electronic Information Science and Technology](http://www.ee.tsinghua.edu.cn/), Tsinghua University (2016-2020)
+**Undergraduate：**  [Electronic Information Science and Technology](http://www.ee.tsinghua.edu.cn/), Tsinghua University (2016-2020)
 
-**Highschool:** [The Affiliated High School of Shanxi University](http://www.sxdxfz.cn/)  (2012-2016)
+**double degree：**  [Business Administration(For Second Bachelor Degree)](http://www.sem.tsinghua.edu.cn/), Tsinghua University (2017-2020)
+
+**Highschool：** [The Affiliated High School of Shanxi University](http://www.sxdxfz.cn/)  (2012-2016)
 
 
 
